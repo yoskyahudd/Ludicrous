@@ -77,7 +77,7 @@ const Offline: NextPage = ({ particles }: any) => {
   return (
     <div className={styles.main}>
       <Head>
-        <meta name="description" content="Ludicrous | A School Site" />
+        <meta name="description" content="SK Proxy V4" />
         <meta name="theme-color" content="#2467a5" />
         <meta charSet='utf-8' />
         <meta httpEquiv='X-UA-Compatible' content='IE=edge' />
